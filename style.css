@@ -1,0 +1,16 @@
+html, body, input, select, textarea
+{
+    font-size: 1.05em;
+    text-align: center;
+}
+
+div.gif_form {
+  margin: 15px;
+}
+div.gif_form input {
+  width: 800px;
+  text-align: left;
+}
+img {
+  height: 500px;
+}
